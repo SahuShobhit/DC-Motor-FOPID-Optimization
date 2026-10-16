@@ -66,6 +66,6 @@ For the optimized FOPID controller, the final tracking error in the reported sim
 The results are based on a simulated motor model and a finite-order approximation of fractional operators. Hardware implementation and experimental validation have not been performed.
 
 ## Author
-Shobhit Kumar
+Shobhit Kumar,
 Electrical Engineering Undergraduate
 Sant Longowal Institute of Engineering and Technology (SLIET), Longowal, Punjab
